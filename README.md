@@ -15,4 +15,5 @@ downloads *(this dir on your storage device)<br>
 ls<br>
 git clone https://github.com/logicjoker/btcmaker.io-script.git<br>
 btcmaker.io-script<br>
-python bot.py<br> (sign in with email and pass)
+python bot.py (sign in with email and pass)
+<br> 
