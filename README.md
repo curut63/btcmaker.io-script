@@ -1,9 +1,9 @@
 # btcmaker.io-script
 autclaim script for btcmaker
 *****
-Btcmaker : https://btcmaker.io/?ref=logicjoker
+Btcmaker : https://btcmaker.io/?ref=logicjoker<br>
 How To Use a Script : https://www.youtube.com/watch?v=Ip2AonisWa8<br>
-Btcmaker Review : https://www.trustpilot.com/review/btcmaker.io
+Btcmaker Review : https://www.trustpilot.com/review/btcmaker.io<br>
 *****
 Installation (Termux) [Important!!!]<br>
 pkg update && pkg upgrade -y<br>
