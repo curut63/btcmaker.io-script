@@ -5,6 +5,7 @@ Btcmaker : https://btcmaker.io/?ref=logicjoker<br>
 Btcmaker Review : https://www.trustpilot.com/review/btcmaker.io<br>
 *****
 Installation (Termux) [Important!!!]<br>
+apt update && apt upgrade -y<br>
 pkg update && pkg upgrade -y<br>
 pkg install git<br>
 pkg install php<br>
