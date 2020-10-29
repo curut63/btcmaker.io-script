@@ -1,5 +1,5 @@
 # btcmaker.io-script
-autclaim script for btcmaker
+autoclaim script for btcmaker
 *****
 Btcmaker : https://btcmaker.io/?ref=logicjoker<br>
 Btcmaker Review : https://www.trustpilot.com/review/btcmaker.io<br>
