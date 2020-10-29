@@ -13,10 +13,6 @@ pkg install nano<br>
 storage *(use this to access your storage device)<br>
 downloads *(this dir on your storage device)<br>
 ls<br>
-git clone https://github.com/logicjoker/Clickbots.git<br>
-ls<br>
-<br>
-python bot.py<br>
-
-**first time only this bot send a code in telegram then you put a code in script<br> 
-*** Screenshot in this link : https://www.youtube.com/watch?v=Ip2AonisWa8<br>
+git clone https://github.com/logicjoker/btcmaker.io-script.git<br>
+btcmaker.io-script<br>
+python bot.py<br> (sign in with email and pass)
